@@ -7,15 +7,6 @@
   <img src="https://i.imgur.com/4HZan62.png" alt="Header">
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCMXvwwnTfpH6GCvnkilmnOw?sub_confirmation=1">
-    <img alt="Subscribe" title="Subscribe" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/youtube/channel/views/UCMXvwwnTfpH6GCvnkilmnOw?style=for-the-badge" alt="Views">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCMXvwwnTfpH6GCvnkilmnOw?style=for-the-badge" alt="Subs">
-  <img src="https://komarev.com/ghpvc/?username=Zeltales&style=for-the-badge" alt="Profile Views">
-</p>
-
 
 <h1></h1>
 <div>&nbsp;</div>
