@@ -95,7 +95,7 @@
 
 
 <p align="center">
-  <a href="https://discord.com/users/967182770331865088">
+  <a href="https://discord.com/users/1358582539324887040">
     <img src="https://i.imgur.com/7CwcLq5.png" alt="Discord"/>
   </a>
 </p>
